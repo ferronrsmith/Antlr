@@ -1,1 +1,2 @@
-#Antlr experiments to learn how to process formal languages
+#Antlr Experiments
+**Goal:** To learn how to process formal languages using the Java library Antrl
