@@ -45,5 +45,10 @@ After enter that last command you should the following output:
 
 Success!
 
+## JSON to XML
 
+    cd CSV/
+    antlr4 JSON.g4
+    javac JSON*.java
+    java JSON2XML t.json
 
